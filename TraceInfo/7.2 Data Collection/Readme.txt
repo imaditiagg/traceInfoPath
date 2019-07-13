@@ -1,0 +1,1 @@
+This folder contains program and csv file for the count, earliest tweet time and latest tweet time of all the collected hashtags.
