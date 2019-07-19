@@ -6,10 +6,10 @@ import json
 import pymongo
 
 #Twitter API credentials
-consumer_key = 'jyzknZmSrFKH1576jt4tZi6DC'
-consumer_secret = 'exivGxZ6IghYt8njlRMkfzWFzxMNmxgVzZWiD2PJ22sWdnvlev'
-access_token = '3195018649-LmvPzjQFRB70u2aEPH9VcLxtxX3JC93pwilD2if'
-access_token_secret = 'VTaJTIFhDX4KyaiUmX36yirOqwzdioXsOXOOYJszMKEvS'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
